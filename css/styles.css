@@ -67,6 +67,11 @@ h1 {
 .about-title{
 font-family: "proxima-nova-alt";
 font-size: 36px;
+margin-top: 20px;
+}
+
+.about-blurb{
+	margin-top: 10px;
 }
 
 p{
