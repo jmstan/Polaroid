@@ -1,6 +1,14 @@
 
 
+body{
+	background: url('{{site.url}}assets/polaroidcolor.png');
+}
+
+
+
 h1 {
   font-family: "proxima-nova-alt";
   font-size: 42px;
   }
+
+
