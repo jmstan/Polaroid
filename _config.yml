@@ -4,14 +4,14 @@
 
 title: my Github Site
 
-url: "http://jmstan.github.io/my-site/"
+url: "http://jmstan.github.io/Polaroid/"
 
-baseurl: "my-site"
+baseurl: "Polaroid"
 permalink: pretty
 
 
 prose:
-  siteurl: "http://jmstan.github.io/my-site" 
+  siteurl: "http://jmstan.github.io/Polaroid" 
   media: 'media'
   rooturl: '_posts'
   ignore: 
