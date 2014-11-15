@@ -64,6 +64,15 @@ h1 {
   margin-top: 30px;
   }
 
+.about-title{
+font-family: "proxima-nova-alt";
+font-size: 36px;
+}
+
+p{
+	font-size: 22px;
+}
+
 .image1{
 	margin-top: 60px;
 }
