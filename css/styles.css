@@ -71,7 +71,6 @@ h1.title {
   height:100px;
   z-index: 1;
   position: absolute;
-  margin-left:10px;
  /* background: url('{{site.url}}assets/polaroid6.png');*/
   }
 
@@ -87,7 +86,7 @@ img{
   font-weight: 400;
   font-style: normal;
 font-size: 36px;
-margin-top: 20px;
+margin-top: 150px;
 }
 
 .about-blurb{
