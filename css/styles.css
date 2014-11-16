@@ -74,7 +74,7 @@ h1.title {
   position: absolute;
   background-color: orange;
   width: 662px;
-  opacity: .4;
+  opacity: .2;
   height: 126px;
   -webkit-transform: skew(-30deg);
  /* background: url('{{site.url}}assets/polaroid6.png');*/
