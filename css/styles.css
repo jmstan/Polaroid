@@ -71,9 +71,17 @@ h1.title {
   height:100px;
   z-index: 1;
   position: absolute;
+  margin-left:10px;
  /* background: url('{{site.url}}assets/polaroid6.png');*/
   }
 
+
+img{
+	margin-top: -73px;
+	z-index: 1;
+	margin-left: -116px;
+	width:113%;
+}
 .about-title{
   font-family: "soleil";
   font-weight: 400;
@@ -115,8 +123,5 @@ ul li{
 	font-size: 18px;
 }
 
-img{
-	margin-top: -56px;
-	z-index: 1;
-}
+
 
