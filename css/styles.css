@@ -67,7 +67,7 @@ h1.title {
   font-style: normal;
   font-weight: 600;
   font-size: 42px;
-  margin-top: 103px;
+  margin-top: 86px;
   height:100px;
   z-index: 1;
   position: absolute;
@@ -81,7 +81,7 @@ h1.title {
 }
 
 .colors{
-	margin-top: -73px;
+	margin-top: -117px;
 	z-index: 1;
 	margin-left: -116px;
 	width:113%;
