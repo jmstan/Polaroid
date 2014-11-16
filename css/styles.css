@@ -59,7 +59,9 @@ body{
 
 
 h1 {
-  font-family: "proxima-nova-alt";
+  font-family: "soleil";
+  font-style: normal;
+  font-weight: 600;
   font-size: 42px;
   margin-top: 30px;
   }
