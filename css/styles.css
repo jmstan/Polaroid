@@ -68,6 +68,7 @@ h1.title {
   font-weight: 600;
   font-size: 42px;
   margin-top: 54px;
+  margin-left: 32px;
   height:100px;
   z-index: 1;
   position: absolute;
