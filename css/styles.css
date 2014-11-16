@@ -75,7 +75,7 @@ h1.title {
   }
 
 
-img{
+.colors{
 	margin-top: -73px;
 	z-index: 1;
 	margin-left: -116px;
@@ -86,7 +86,7 @@ img{
   font-weight: 400;
   font-style: normal;
 font-size: 36px;
-margin-top: 10px;
+margin-top: 45px;
 }
 
 .about-blurb{
