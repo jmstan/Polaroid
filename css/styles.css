@@ -68,28 +68,39 @@ h1.title {
   font-weight: 600;
   font-size: 42px;
 
-  margin-left: 32px;
+  margin-left: 9px;
   height:100px;
   z-index: 1;
   position: absolute;
   background-color: orange;
   width: 662px;
   opacity: .4;
-  height: 123px;
+  height: 126px;
   -webkit-transform: skew(-30deg);
  /* background: url('{{site.url}}assets/polaroid6.png');*/
   }
 
+
+.title3{
+	z-index: 1;
+position: absolute;
+font-family: "soleil";
+font-style: normal;
+font-weight: 600;
+font-size: 43px;
+padding-top: 78px;
+margin-left: 62px;
+}
 
 .image1{
 	margin-top: -103px;
 }
 
 .colors{
-	margin-top: -117px;
+	margin-top: -107px;
 	z-index: 1;
 	margin-left: -116px;
-	width:113%;
+	width:121%;
 }
 .about-title{
   font-family: "soleil";
