@@ -115,7 +115,8 @@ ul li{
 }
 
 img{
-	margin-top: -56px;
+	margin-top: -175px;
 	position: absolute;
+	z-index: 1;
 }
 
