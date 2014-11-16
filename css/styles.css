@@ -67,11 +67,11 @@ h1.title {
   font-style: normal;
   font-weight: 600;
   font-size: 42px;
-  margin-top: 86px;
+  margin-top: 54px;
   height:100px;
   z-index: 1;
   position: absolute;
-  color:gray;
+
  /* background: url('{{site.url}}assets/polaroid6.png');*/
   }
 
