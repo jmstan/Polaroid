@@ -67,18 +67,24 @@ h1 {
   }
 
 .about-title{
-font-family: "proxima-nova-alt";
+  font-family: "soleil";
+  font-weight: 400;
+  font-style: normal;
 font-size: 36px;
 margin-top: 20px;
 }
 
 .about-blurb{
 	margin-top: 10px;
-	font-family: "proxima-nova-alt";
+	 font-family: "soleil";
+	 font-weight: 300;
+	 font-style: normal;
 }
 
 .caption{
-font-family: "proxima-nova-alt";	
+	 font-family: "soleil";	
+	  font-weight: 300;
+	 font-style: normal;
 }
 
 p{
@@ -90,7 +96,8 @@ margin-top: -83px;
 }
 
 .specs, .condition, .film{
-font-family: "proxima-nova-alt";
+font-family: "soleil";
+font-weight: 400;
 font-size: 24px;
 }
 
