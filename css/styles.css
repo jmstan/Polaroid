@@ -71,6 +71,7 @@ h1.title {
   height:100px;
   z-index: 1;
   position: absolute;
+  color:gray;
  /* background: url('{{site.url}}assets/polaroid6.png');*/
   }
 
