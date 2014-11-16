@@ -58,7 +58,7 @@ body{
 }
 
 
-h1 {
+h1.title {
   font-family: "soleil";
   font-style: normal;
   font-weight: 600;
