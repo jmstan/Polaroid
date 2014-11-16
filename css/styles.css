@@ -67,7 +67,7 @@ h1.title {
   font-style: normal;
   font-weight: 600;
   font-size: 42px;
-  margin-top: 30px;
+  margin-top: 67px;
   height:100px;
   z-index: 1;
   position: absolute;
@@ -117,7 +117,6 @@ ul li{
 
 img{
 	margin-top: -56px;
-	position: absolute;
 	z-index: 1;
 }
 
