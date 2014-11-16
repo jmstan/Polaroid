@@ -89,7 +89,11 @@ margin-top: -83px;
 
 .specs, .condition, .film{
 font-family: "proxima-nova-alt";
-font-size: 18px;
+font-size: 24px;
+}
+
+li a{
+	font-size: 18px;
 }
 
 
