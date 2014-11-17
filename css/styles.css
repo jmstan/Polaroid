@@ -214,5 +214,10 @@ input{
 	width:175px;
 	height:25px;
 }
+label{
+	float;
+}
 
-
+form{
+	width:319px;
+}
