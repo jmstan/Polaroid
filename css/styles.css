@@ -105,7 +105,8 @@ text-align: center;
 
 .title5{
 	text-align: center;
-	margin-top: 40px;
+	margin-top: 50px;
+	margin-bottom: 30px;
 }
 
 .image1{
@@ -222,4 +223,5 @@ label{
 
 form.form{
 	width:319px !important;
+	margin: 0 auto;
 }
