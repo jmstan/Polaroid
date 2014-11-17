@@ -59,6 +59,7 @@ body{
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
+	background-color: lightgray;
 }
 
 
@@ -68,8 +69,8 @@ h1.title {
   font-weight: 600;
   font-size: 42px;
 
-  margin-left: 9px;
-  height:100px;
+/*  margin-left: 9px;
+  height:100px; */
   z-index: 1;
   position: absolute;
   background-color: orange;
