@@ -66,7 +66,7 @@ html, body, .wrapper{
 	height:100%;
 }
 
-/*h1.title {
+h1.title {
   font-family: "soleil";
   font-style: normal;
   font-weight: 600;
@@ -79,17 +79,16 @@ html, body, .wrapper{
   opacity: .2;
   height: 162px;
   -webkit-transform: skew(-30deg);
-  }*/
+  }
 
 
 .title3{
 z-index: 1;
-position: absolute;
 font-family: "soleil";
 font-style: normal;
 font-weight: 600;
 font-size: 43px;
-margin-left: 102px !important;
+
 } 
 
 .image1{
