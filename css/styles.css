@@ -144,6 +144,11 @@ h3{
   z-index: 1;
   width:800px !important;
   margin-top: -61px;
-  margin-left: -80px !important;
-  
+  margin-left: -80px !important;  
+}
+
+.pay{
+	 font-family: "soleil";	
+	 font-weight: 300;
+	 font-size: 22px;
 }
