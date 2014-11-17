@@ -82,17 +82,15 @@ h1.title {
   }
 
 
-/*.title3{
-	z-index: 1;
+.title3{
+z-index: 1;
 position: absolute;
 font-family: "soleil";
 font-style: normal;
 font-weight: 600;
 font-size: 43px;
-padding-top: 78px;
-margin-top:39px;
 margin-left: 102px !important;
-} */
+} 
 
 .image1{
 	margin-top: -25px;
