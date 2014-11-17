@@ -145,7 +145,7 @@ h3{
 
 	z-index: 1;
 	
-	width:800px;
+	width:800px !important;
 
 margin-top: -61px;
 margin-left: -110px;
