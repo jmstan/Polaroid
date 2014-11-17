@@ -131,6 +131,9 @@ p{
 	letter-spacing: 1px;
 }
 
+.border{
+	border-radius: 5px;
+}
 
 .specs, .condition, .film{
 font-family: "soleil";
