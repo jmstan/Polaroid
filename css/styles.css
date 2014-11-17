@@ -68,7 +68,7 @@ h1.title {
   font-style: normal;
   font-weight: 600;
   font-size: 42px;
-  margin-top: -132px;
+  margin-top: 41px;
 /*  margin-left: 9px;
   height:100px; */
   z-index: 1;
@@ -142,8 +142,12 @@ h3{
 }
 
 .colors{
-	margin-top: -201px;
+
 	z-index: 1;
-	margin-left: -116px;
+	
 	width:800px;
+
+margin-top: -61px;
+margin-left: -110px;
+
 }
