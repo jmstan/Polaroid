@@ -96,12 +96,7 @@ margin-top:-20px;
 	margin-top: -103px;
 }
 
-.colors{
-	margin-top: -201px;
-	z-index: 1;
-	margin-left: -116px;
-	width:800px;
-}
+
 .about-title{
   font-family: "soleil";
   font-weight: 400;
@@ -145,3 +140,9 @@ h3{
 	margin-top: 20px;
 }
 
+.colors{
+	margin-top: -201px;
+	z-index: 1;
+	margin-left: -116px;
+	width:800px;
+}
