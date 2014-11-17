@@ -79,7 +79,7 @@ h1.title {
   background-color: orange;
   width: 662px;
   opacity: .2;
-  height: 154px;
+  height: 162px;
   -webkit-transform: skew(-30deg);
  /* background: url('{{site.url}}assets/polaroid6.png');*/
   }
@@ -144,12 +144,9 @@ h3{
 }
 
 .colors{
-
-	z-index: 1;
-	
-	width:800px !important;
-
-margin-top: -61px;
-margin-left: -80px !important;
-
+  z-index: 1;
+  width:800px !important;
+  margin-top: -61px;
+  margin-left: -80px !important;
+  position: absolute;
 }
