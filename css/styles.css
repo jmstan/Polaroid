@@ -192,6 +192,7 @@ h3{
 	 font-family: "soleil";	
 	 font-weight: 300;
 	 font-size: 22px;
+	 text-align: right;
 }
 
 .first, .last, .email{
