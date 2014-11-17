@@ -66,14 +66,12 @@ html, body, .wrapper{
 	height:100%;
 }
 
-h1.title {
+/*h1.title {
   font-family: "soleil";
   font-style: normal;
   font-weight: 600;
   font-size: 42px;
   margin-top: 0px !important;
-/*  margin-left: 9px;
-  height:100px; */
   z-index: 1;
   position: absolute;
   background-color: orange;
@@ -81,8 +79,7 @@ h1.title {
   opacity: .2;
   height: 162px;
   -webkit-transform: skew(-30deg);
- /* background: url('{{site.url}}assets/polaroid6.png');*/
-  }
+  }*/
 
 
 .title3{
