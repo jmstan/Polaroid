@@ -170,6 +170,15 @@ p{
 
 }
 
+a{
+	 font-family: "soleil";	
+	 font-weight: 300;
+	font-size: 18px;
+	color: #4e4e4e;
+
+
+}
+
 .border{
 	margin-top: 75px;
 }
