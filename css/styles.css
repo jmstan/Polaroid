@@ -59,7 +59,7 @@ body{
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	background-color: lightgray;
+	background-color: white;
 }
 
 html, body, .wrapper{
@@ -164,8 +164,9 @@ color: #4e4e4e;
 p{
 	 font-family: "soleil";	
 	 font-weight: 300;
-	font-size: 22px;
+	font-size: 18px;
 	color: #4e4e4e;
+	margin-top: -304px;
 
 }
 
