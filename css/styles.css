@@ -133,6 +133,15 @@ color: #4e4e4e;
 margin-bottom: 25px;
 }
 
+
+.buy{
+  font-family: "soleil";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+  color: #4e4e4e;
+}
+
 .about-blurb{
 	margin-top: 10px;
 	 font-family: "soleil";
