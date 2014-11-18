@@ -13,10 +13,10 @@
 
 <script>
 
-        var mainImage = $(".thumbs");
+        var mainImage = $("#mainImage");
         $(".img-container img").hover(function(){
            var src = $(this).attr("src");
-            $(".thumbs").attr("src",src);
+            $("#mainImage").attr("src",src);
         });
 
         mainImage.on("click",function(){
