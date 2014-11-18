@@ -254,14 +254,11 @@ form.form{
 }
 
 .img-container{
-	margin-top: 48px;
-}
-
-.thumb{
 	margin-top: 10px;
 }
 
-.thumb:first-child{
+
+.img-container:first-child{
 	margin-top: 0px;
 }
 
