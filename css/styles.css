@@ -79,6 +79,7 @@ h1.title {
   opacity: .2;
   height: 162px;
   -webkit-transform: skew(-30deg);
+  color: #4e4e4e;
   }
 
 
@@ -89,6 +90,7 @@ font-style: normal;
 font-weight: 500;
 font-size: 40px;
 margin-top: -19px;
+color: #4e4e4e;
 
 }
 
@@ -101,12 +103,14 @@ font-size: 28px;
 margin-top: 20px;
 margin-bottom: 20px;
 text-align: center;
+color: #4e4e4e;
 } 
 
 .title5{
 	text-align: center;
 	margin-top: 50px;
 	margin-bottom: 30px;
+	color: #4e4e4e;
 }
 
 .image1{
@@ -124,6 +128,7 @@ text-align: center;
   font-style: normal;
 font-size: 36px;
 margin-top: 50px;
+color: #4e4e4e;
 }
 
 .about-blurb{
@@ -131,18 +136,21 @@ margin-top: 50px;
 	 font-family: "soleil";
 	 font-weight: 300;
 	 font-style: normal;
+	 color: #4e4e4e;
 }
 
 .caption{
 	 font-family: "soleil";	
 	  font-weight: 300;
 	 font-style: normal;
+	 color: #4e4e4e;
 	
 }
 .caption2{
 	 font-family: "soleil";	
 	  font-weight: 300;
 	 font-style: normal;
+	 color: #4e4e4e;
 
 }
 .arrows{
@@ -159,6 +167,7 @@ p{
 	 font-family: "soleil";	
 	 font-weight: 300;
 	font-size: 22px;
+	color: #4e4e4e;
 
 }
 
@@ -180,6 +189,7 @@ ul li{
 h3{
 	margin-top: 40px;
 	margin-bottom: 15px;
+	color: #4e4e4e;
 }
 
 .colors{
@@ -203,6 +213,7 @@ font-weight: 300;
 font-size: 18px;
 float:left;
 margin-top: 12px;
+color: #4e4e4e;
 }
 
 .email{
