@@ -64,6 +64,22 @@ layout: default
   </div>
 
 
+<script>
+
+        var mainImage = $("#mainImage");
+        $(".img-container img").hover(function(){
+           var src = $(this).attr("src");
+            $("#mainImage").attr("src",src);
+        });
+
+        mainImage.on("click",function(){
+          /*  $(this).css("transform","scale(2)"); */
+          $(this).css();
+        });
+
+
+</script>
+
 <!--        <div class="pay da3-da4"> 
           <span class="text"> Pay Now </span>
            <br> <button> $30 </button> </div>
