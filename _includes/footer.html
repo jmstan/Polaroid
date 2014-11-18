@@ -20,6 +20,24 @@
 
 </script>
 
+
+<script>
+
+        var mainImage2 = $("#mainImage2");
+        $(".img-container2 img").hover(function(){
+           var src = $(this).attr("src");
+            $("#mainImage2").attr("src",src);
+        });
+
+        mainImage2.on("click",function(){
+         $(this).css("transform","scale(2)");
+       
+        });
+
+
+</script>
+
+
      
  <script src="https://get.gridsetapp.com/31490/overlay/"></script>
        
