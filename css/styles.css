@@ -243,6 +243,14 @@ form.form{
 	margin: 0 auto;
 }
 
+.thumbs{
+	margin-top: 48px;
+}
+
 .thumb{
-	margin-top: 5px;
+	margin-top: 10px;
+}
+
+.thumb:first-child{
+	margin-top: 0px;
 }
