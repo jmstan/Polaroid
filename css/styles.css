@@ -275,7 +275,7 @@ form.form{
 }
 
 .img-container{
-	margin-top: 18px;
+	margin-top: 20px;
 	cursor: pointer;
 }
 
@@ -297,6 +297,9 @@ li{
 	margin-top: 32px;
 }
 
+.list{
+	margin-top:74px;
+}
 
 .btn-2{
 	
