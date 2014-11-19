@@ -101,12 +101,19 @@ text-align: center;
 font-family: "soleil";
 font-style: normal;
 font-weight: 500;
-font-size: 28px;
+font-size: 66px;
 margin-top: 20px;
 margin-bottom: 20px;
-text-align: center;
+text-align: left;
 color: #4e4e4e;
 } 
+
+.title4{
+	text-transform: uppercase;
+	text-align: left;
+	margin-top: -7px;
+	font-size: 66px;
+}
 
 .title5{
 	text-align: center;
