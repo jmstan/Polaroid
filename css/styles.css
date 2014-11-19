@@ -279,7 +279,7 @@ form.form{
 	cursor: pointer;
 }
 
-.img-container:first-child{
+.img-container li:first-child{
 	margin-top:0px;
 }
 
